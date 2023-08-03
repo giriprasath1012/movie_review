@@ -1,0 +1,73 @@
+.App {
+  display: flex;
+  height: 100vh;
+  text-align: left;
+  
+}
+
+.topic{
+  display: flux;
+  background-color: goldenrod;
+  width: 300vb;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+
+  
+}
+.display{
+  background-color: gray;
+  width: 1000vb;
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.topic ul{
+  list-style: none;
+  padding: 0;
+}
+.topic li{
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  padding: 30px;
+}
+
+.top{
+  text-align: center;
+}
+.topic h1{
+  color: black;
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+}
+
+.ps:hover,.gn:hover,.mm:hover,.vs:hover,.mv:hover,.pt:hover{
+  color: aqua;
+}
+
+
+.head{
+  align-items: center;
+  justify-content: center;
+  color: cyan;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.head:hover{
+  color: black;
+}
+.imgm{
+  height: 300px;
+  border-radius: 20px;
+}
+
+
+
+
